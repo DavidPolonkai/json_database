@@ -1,10 +1,14 @@
-{"maxgs":[
 {
-"id":1,
-"name":"test",
-"comment":"test comment",
-"date":"2021-03-03 03:03:03",
-"maxg":1.2
-}
-]
+  "maxgs":[
+    {
+      "id":1,
+      "name":"test",
+      "comment":"test comment",
+      "date":"2021-03-03 03:03:03",
+      "maxg":1.2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
