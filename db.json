@@ -1,4 +1,4 @@
-[
+{maxGForces:[
 {
 "id":1,
 "name":"test",
@@ -7,3 +7,4 @@
 "maxg":1.2
 }
 ]
+}
