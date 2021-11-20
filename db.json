@@ -1,13 +1,9 @@
 [
 {
-"id":1
-"name":"test"
-"comment":"test comment"
-"date":"2021-03-03 03:03:03"
+"id":1,
+"name":"test",
+"comment":"test comment",
+"date":"2021-03-03 03:03:03",
 "maxg":1.2
 }
-
-
-
-
 ]
