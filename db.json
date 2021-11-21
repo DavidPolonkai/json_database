@@ -1,5 +1,5 @@
 {
-{"maxGForces":[
+"maxGForces":[
 {
 "id":1,
 "name":"test",
@@ -41,8 +41,6 @@
 "comment":"I am in space",
 "date":"2021-03-20 03:03:03",
 "maxg":0.1
-}
-]
 }
   ],
   "profile": {
