@@ -6,42 +6,42 @@
 "name":"test",
 "comment":"test comment",
 "date":"Nov 20, 2021 11:34:55 PM",
-"maxGValue":1.231
+"maxGValue":1.0285604
 },
 {
 "id":2,
 "name":"Average user",
 "comment":"This is playable",
 "date":"Nov 20, 2021 15:34:55 PM",
-"maxGValue":10.122
+"maxGValue":10.0485604
 },
 {
 "id":3,
 "name":"The driver",
 "comment":"This G was actually a pothole",
 "date":"Nov 21, 2021 18:34:55 PM",
-"maxGValue":9.104
+"maxGValue":9.0685604
 },
 {
 "id":4,
 "name":"The falling",
 "comment":"I broke my phone",
 "date":"Nov 10, 2021 11:34:55 PM",
-"maxGValue":20.40
+"maxGValue":20.0185604
 },
 {
 "id":5,
 "name":"The sun is massive",
 "comment":"There is no phone",
 "date":"Nov 20, 2021 10:33:52 PM",
-"maxGValue":1000.2
+"maxGValue":1000.0985604
 },
 {
 "id":6,
 "name":"Astronout playing",
 "comment":"I am in space",
 "date":"Nov 20, 2121 11:34:55 PM",
-"maxGValue":0.1
+"maxGValue":0.0485604
 }
   ],
   "profile": {
