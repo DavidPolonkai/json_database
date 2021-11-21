@@ -5,42 +5,42 @@
 "id":1,
 "name":"test",
 "comment":"test comment",
-"date":"2021-03-03 03:03:03",
+"date":"Nov 20, 2021 11:34:55 PM",
 "maxg":1.231
 },
 {
 "id":2,
 "name":"Average user",
 "comment":"This is playable",
-"date":"2021-04-06 04:03:03",
+"date":"Nov 20, 2021 15:34:55 PM",
 "maxg":10.122
 },
 {
 "id":3,
 "name":"The driver",
 "comment":"This G was actually a pothole",
-"date":"2022-12-10 13:10:12",
+"date":"Nov 21, 2021 18:34:55 PM",
 "maxg":9.104
 },
 {
 "id":4,
 "name":"The falling",
 "comment":"I broke my phone",
-"date":"2021-11-03 03:03:03",
+"date":"Nov 10, 2021 11:34:55 PM",
 "maxg":20.40
 },
 {
 "id":5,
 "name":"The sun is massive",
 "comment":"There is no phone",
-"date":"2121-01-01 01:01:01",
+"date":"Nov 20, 2021 10:33:52 PM",
 "maxg":1000.2
 },
 {
 "id":6,
 "name":"Astronout playing",
 "comment":"I am in space",
-"date":"2021-03-20 03:03:03",
+"date":"Nov 20, 2121 11:34:55 PM",
 "maxg":0.1
 }
   ],
